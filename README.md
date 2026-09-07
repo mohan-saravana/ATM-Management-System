@@ -1,4 +1,3 @@
-# Timetable-Management-System
 # ATM Management System
 
 ##  Project Title
