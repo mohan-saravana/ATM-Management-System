@@ -213,16 +213,6 @@ The application uses **parameterized SQL queries with `PreparedStatement`**, hel
 
 ---
 
-##  Advantages
-
-* Easy-to-use graphical interface.
-* Centralized database storage.
-* Layered architecture improves maintainability.
-* Prepared statements improve SQL safety.
-* Transaction history can be viewed.
-* Easy to extend with additional banking features.
-
----
 
 ##  Testing
 
